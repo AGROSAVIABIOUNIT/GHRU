@@ -31,6 +31,6 @@ _SPECIES= Salmonella or Ecoli or Ngono_ <br>
 
 _bash run_mt_pipeline_test.sh_
 
-# All fasta sequences used as examples for MT were downloaded from refseq NCBI ( https://www.ncbi.nlm.nih.gov/ )
+## All fasta sequences used as examples for MT were downloaded from refseq NCBI ( https://www.ncbi.nlm.nih.gov/ )
 
 ## **All in one site!!**
