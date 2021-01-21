@@ -1,0 +1,9 @@
+name: ngmast_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.6
+  - pip:
+    - ngmaster

@@ -1,0 +1,2 @@
+cgmlst_ST,cgmlst_distance,cgmlst_found_loci,cgmlst_genome_match,cgmlst_matching_alleles,cgmlst_subspecies,fasta_filepath,genome,h1,h2,o_antigen,qc_messages,qc_status,serogroup,serovar,serovar_antigen,serovar_cgmlst
+1628065388,0.024242424242424288,330,2014-LET-0419,322,enterica,/Users/jfbernal/Downloads/github/GITLAB/GHRU/ghru/MT_prueba/salmonella/mt_output/work/8c/b3c0b604cfd354ae5b56d58bf0660d/NC_004631.1.fasta,NC_004631.1,d,-,"9,12[Vi]",INFO: Number of cgMLST330 loci found (n=330),PASS,D1,Typhi,Typhi,Typhi

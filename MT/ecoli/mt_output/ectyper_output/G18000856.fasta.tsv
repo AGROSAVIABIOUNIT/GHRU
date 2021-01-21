@@ -1,0 +1,2 @@
+Name	Species	O-type	H-type	Serotype	QC	Evidence	GeneScores	AlleleKeys	GeneIdentities(%)	GeneCoverages(%)	GeneContigNames	GeneRanges	GeneLengths	Database	Warnings
+G18000856	-	O15	H1	O15:H1	-	Based on 3 allele(s)	wzx:1;wzy:1;fliC:1;	O15-4-wzx;O15-8-wzy;H1-11-fliC;	100;100;100;	100;100;100;	NODE_4_length_443442_cov_12.575744;NODE_4_length_443442_cov_12.575744;NODE_3_length_496918_cov_12.196273;	31597-32841;29386-30564;103265-105052;	1245;1179;1788;	v1.0 (11-03-2020)	-

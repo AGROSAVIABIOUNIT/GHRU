@@ -1,0 +1,2 @@
+Sample name	Output directory	Input files	O antigen prediction	H1 antigen prediction(fliC)	H2 antigen prediction(fljB)	Predicted subspecies	Predicted antigenic profile	Predicted serotype	Note
+NC_004631.1.fasta	/Users/jfbernal/Downloads/github/GITLAB/GHRU/ghru/MT_prueba/salmonella/mt_output/work/46/b620db21eda0fd2a2de41b0130474d/seqsero2_output	NC_004631.1.fasta	9	d	-	I	9:d:-	Typhi	
