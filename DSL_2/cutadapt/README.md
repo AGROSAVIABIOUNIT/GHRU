@@ -1,4 +1,4 @@
-#__**cutadapt-nextflow**__
+# __**cutadapt-nextflow**__
 
 This process put together cutadapt and nextflow for <br> 
 scalable cleaning internal adapters contamination of <br>
