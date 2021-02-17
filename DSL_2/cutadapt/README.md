@@ -1,20 +1,23 @@
-# __**cutadapt-nextflow**__
+#__**cutadapt-nextflow**__
 
-This process put together cutadapt and nextflow for <br> scalable cleaning internal adapters contamination of <br>
+This process put together cutadapt and nextflow for <br> 
+scalable cleaning internal adapters contamination of <br>
 raw reads <br>
 
-###**pre-requisites:**
+**pre-requisites:**
 
    conda ( pip3 install conda )
 
-###**Create manually conda env (optional)**
+**Create manually conda env (optional)**
  
-   conda create --name cutadapt --file <br> conda_env_nextflow_cutadapt.txt <br>
+   conda create --name cutadaptenv --file <br> 
+   env_conda_fastqc_cutadapt.txt <br>
 
-##_**Run**_
+_**Run**_
 
-###**Edit two first lines in (.sh) file with paths <br>
-to nextflow_pipelines directory and data into fastqs <br> directory** <br>
+**Edit two first lines in (.sh) file with paths <br>
+to nextflow_pipelines directory and data into fastqs <br> 
+directory** <br>
 
    sh file.sh
 

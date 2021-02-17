@@ -1,5 +1,5 @@
-nextflow_workflows_dir=/Users/jfbernal/Desktop/DSL_2/cutadapt
-data_dir=/Users/jfbernal/Desktop/DSL_2/cutadapt
+nextflow_workflows_dir=/Users/jfbernal/Downloads/github/AGRO/GHRU/DSL_2/cutadapt
+data_dir=/Users/jfbernal/Downloads/github/AGRO/GHRU/DSL_2/cutadapt
 
 nextflow run ${nextflow_workflows_dir}/main.nf \
 --adapter_file ${nextflow_workflows_dir}/adapters_cutadapt.fas \
