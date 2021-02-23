@@ -17,10 +17,9 @@ to make scalable and easy to use with updated data <br>
 ## _**Run**_
 
 **Edit two first lines in (.sh) file with paths <br>
-to nextflow_pipelines directory (default .) and to fasta file** <br>
+to nextflow_pipelines directory and to fasta file** <br>
 
    bash file.sh
 
 
-## **Access to easy sars_cov2 genomic data analysis is essential 
-to predict risks in LMICs!!**
+## **Access to easy sars_cov2 genomic data analysis is essential to predict risks in LMICs!!**
